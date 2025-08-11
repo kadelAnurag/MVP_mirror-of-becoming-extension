@@ -1,21 +1,36 @@
-MIT License
+MIT License with Attribution Requirement
 
-Copyright (c) 2025 kadelAnurag
+Copyright (c) 2025 Anurag Kadel
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+of this software (the "Software"), to use, copy, modify, merge, publish, 
+distribute, sublicense, and/or sell copies of the Software, subject to the 
+following conditions:
 
-The above copyright notice and this permission notice shall be included in all
+1. Attribution:
+   Any use, modification, or distribution of this Software or its derivatives 
+   must include clear and visible attribution to:
+   "Anurag Kadel — Concept and design documented in the paper 'Mirror of Becoming: 
+   Designing Reflective Digital Tools'."
+
+2. Conceptual Rights:
+   The reflective design method, underlying idea, and theoretical framing of 
+   this Software are described in the above-mentioned paper and remain the 
+   intellectual property of the author. Use of the code does not grant rights 
+   to claim originality of the concept, methodology, or design principles.
+
+3. No Misrepresentation:
+   You may not misrepresent the origin of this Software or the associated 
+   reflective design concept. Modified versions must be clearly marked as 
+   changes from the original work.
+
+The above copyright notice and this permission notice shall be included in all 
 copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN 
+THE SOFTWARE.
