@@ -2,7 +2,8 @@
 
 **Mirror of Becoming — MVP** is a lightweight Chrome extension that detects rapid tab switching or window changes and presents a minimal overlay with an archetype-based prompt. Its purpose is to introduce a short reflective pause during browsing, helping you notice and question unconscious switching habits without blocking your activity.
 
-This MVP demonstrates the concept described in my research paper on attention, friction, and reflective interface design.
+This MVP demonstrates the concept described in my research paper on attention, friction, and reflective interface design. 
+Link to preprint: https://doi.org/10.31235/osf.io/3tqnm_v1
 
 ---
 
